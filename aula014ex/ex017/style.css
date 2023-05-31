@@ -24,12 +24,17 @@ section {
     
 }
 
-#Testando {
+#container {
     padding: 15px;
     background: white;
     border-radius: 6px;
     width: auto;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.145);
+
+}
+
+#seltab {
+    width: 100%;
 
 }
 
